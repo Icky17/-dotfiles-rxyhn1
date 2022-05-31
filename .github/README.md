@@ -1,4 +1,44 @@
+<!-- Screenshot -->
+<div align="center">
+    <img src="assets/home.png" alt="Home Preview">
+</div>
 
+<h2></h2><br>
+
+<p align="center">
+  <b>🌕 Rxyhn's Beautiful & Aesthetic Configuration Files 🌑</b>
+</p>
+
+
+<h2></h2><br>
+
+<div align="center">
+    <img src="assets/Day-Night.png" alt="Rice Preview">
+</div>
+
+<br>
+<br>
+
+### Hi there! Thanks for dropping by! 🖤
+<a href="https://awesomewm.org/"><img alt="AwesomeWM Logo" height="150" align = "left" src="https://awesomewm.org/doc/api/images/AUTOGEN_wibox_logo_logo_and_name.svg"></a>
+
+<b>  Beautiful & Aesthetic AwesomeWM Dotfiles! ✨  </b>
+
+Welcome to my AwesomeWM configuration files! 
+You might be here for looking my AwesomeWM configuration files? or looking for **Linux Rice** reference?
+feel free to steal anything from here but don't forget to give me **credits** :)
+
+AwesomeWM is the most powerful and highly configurable, next generation framework window manager for X, 
+Although it takes time and effort to configure it, but I'm very satisfied with the result.
+This is a beautiful user interface isn't it?
+
+These dotfiles are made with love, for sure.
+
+<h2></h2><br>
+
+**Here are some details about my setup:**
+
+| Programs   | Using             |
 | ---------- | ----------------- |
 | WM         | awesome           |
 | OS         | arch linux        |
