@@ -130,8 +130,8 @@ These dotfiles are made with love, for sure.
       > Clone this repository
 
       ```sh
-      git clone https://github.com/rxyhn/dotfiles.git
-      cd dotfiles
+      git clone https://github.com/Icky17/-dotfiles-rxyhn1.git
+      cd -dotfiles-rxyhn1
       ```
 
       > Copy config and binaries files
